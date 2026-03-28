@@ -1,2 +1,13 @@
-# life-of-a-developer
-An interactive storytelling website built with React, GSAP, and Framer Motion
+## 🚀 Live Demo
+https://life-of-a-developer-git-main-preyliets-projects.vercel.app
+
+## 👨‍💻 About Me
+Hi, I'm Rohan (18), a beginner developer exploring web development.
+
+This project represents my journey — from confusion to building something real.
+
+## 🧠 Tech Stack
+- React + TypeScript
+- GSAP (ScrollTrigger)
+- Framer Motion
+- CSS Animations
